@@ -3,7 +3,7 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "AzureResumeConnectionString":"AccountEndpoint=https://dbyahavazureresume.documents.azure.com:443/;AccountKey=iZci4IIUugFxzwb9IQGZ4bLqj5QqEJqXFTMfyhAzym4N03zMsBAg5Mx4Ivtlphh6MbhNYiH061c0ACDbd5ZYxA==;"
+    "AzureResumeConnectionString": "AccountEndpoint=https://nadavresume.documents.azure.com:443/;AccountKey=6qYYLwTC6bGVSEWU4JjHphrYV39fTuFxddCsKJ1pazlUOZsJx0cDqc7XuGdTxyj7t0y9rjHjCwdRACDbDPbatw==;"
   },
   "Host":
   {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B/e2Juh7MZ0=",
+  "dgSpecHash": "+5PWNrUOU24=",
   "success": true,
   "projectFilePath": "/Users/nadav_bem/Desktop/Cloud-Resume/backend/tests/tests.csproj",
   "expectedPackageFiles": [
@@ -224,7 +224,9 @@
     "/Users/nadav_bem/.nuget/packages/xunit.core/2.5.3/xunit.core.2.5.3.nupkg.sha512",
     "/Users/nadav_bem/.nuget/packages/xunit.extensibility.core/2.5.3/xunit.extensibility.core.2.5.3.nupkg.sha512",
     "/Users/nadav_bem/.nuget/packages/xunit.extensibility.execution/2.5.3/xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "/Users/nadav_bem/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+    "/Users/nadav_bem/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512",
+    "/Users/nadav_bem/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/Users/nadav_bem/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }
